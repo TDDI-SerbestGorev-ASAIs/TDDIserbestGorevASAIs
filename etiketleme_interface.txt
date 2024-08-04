@@ -1,0 +1,38 @@
+<View>
+  
+
+  <!-- Hizmet Alt Kategorileri -->
+  <Header value="Hizmet Özellikleri"/>
+  <Labels name="hizmet_label" toName="text">
+    <Label value="İade sürecindeki müşteri hizmetleri" background="indigo"/>
+    <Label value="Orjinallik" background="purple"/>
+    <Label value="Paketleme ve Teslimat" background="maroon"/>
+    <Label value="Hijyen" background="LightSeaGreen"/>
+     <Label value="Satıcı" background="lightgreen"/>
+    <Label value="Fiyat" background="yellow"/>
+    
+  </Labels>
+  
+  <!-- Kullanım Alt Kategorileri -->
+  <Header value="Kullanım Özellikleri"/>
+  <Labels name="kullanım_label" toName="text">
+    <Label value="Ses kalitesi" background="SandyBrown"/>
+    <Label value="Pil Ömrü" background="cyan"/>
+    <Label value="Performans" background="Thistle"/>
+    <Label value="Konfor" background="RoyalBlue"/>
+    <Label value="Bağlantı kalitesi" background="magenta"/>
+    <Label value="Tasarım" background="red"/>
+    <Label value="Gürültü Önleyici" background="black"/>
+    <Label value="Mikrofon kalitesi" background="darkgray"/>
+  </Labels>
+     <!-- Duygu Analizi -->
+  <Header value="Duygu analizi"/>
+  <Labels name="duygu_label" toName="text">
+    <Label value="positive" background="indigo"/>
+    <Label value="negative" background="purple"/>
+    <Label value="neutral" background="maroon"/>
+    
+  </Labels>
+  <!-- Metin Etiketleme -->
+  <Text name="text" value="$text"/>
+</View>
