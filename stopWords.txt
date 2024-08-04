@@ -24,6 +24,7 @@ sizin
 onların
 bu
 şu
+an
 o
 bunlar
 şunlar
@@ -70,12 +71,8 @@ ya
 yani
 vs
 ister
-çok
-az
 pek
 daha
-biraz
-en
 ilk
 son
 önce
@@ -120,7 +117,6 @@ birçok
 birşey
 bazı
 çoğu
-biraz
 hepsi
 hep
 herkes
@@ -132,8 +128,6 @@ herkes
 hiç kimse
 daha
 en
-az
-çok
 fazla
 pek
 biraz
@@ -155,7 +149,6 @@ bugün
 dün
 yarın
 hemen
-az 
 sonra
 birazdan
 sonra
@@ -172,7 +165,6 @@ ancak
 artık
 aslında
 acaba
-az
 bile
 bazı
 belki
@@ -181,7 +173,6 @@ bunu
 da
 daha
 de
-değil
 diye
 diyelim
 dolayı
@@ -267,5 +258,7 @@ iyorlar
 iyormuş
 iyordum
 iyorlardı
-iyorlarmış
-
+iyorlarmış 
+bukadar
+şukadar
+okadar
