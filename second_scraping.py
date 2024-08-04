@@ -1,3 +1,4 @@
+#Müşteri yorumlarını yıldız bazlı çekmek istediğimizde kullandığımız kod
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
