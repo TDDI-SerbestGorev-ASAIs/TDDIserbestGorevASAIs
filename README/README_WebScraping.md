@@ -4,10 +4,18 @@ KURULUM
 
 Bu projeyi yerel ortamınıza kurmak için aşağıdaki komutları terminal veya komut istemcisinde çalıştırarak gerekli kütüphaneleri kurabilirsiniz.
 
-1. pip install selenium
-2. pip install beautifulsoup4
-3. pip install pandas
+ ```bash
+ pip install selenium
+```
+```bash
+pip install beautifulsoup4
+```
+```bash
+pip install pandas
+```
+```bash
  Bu komutlar ile gerekli kütüphaneleri kurabilirsiniz.
+```
 
 ÇALIŞTIRMA
 
