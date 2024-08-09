@@ -13,9 +13,8 @@ pip install beautifulsoup4
 ```bash
 pip install pandas
 ```
-```bash
+
  Bu komutlar ile gerekli kütüphaneleri kurabilirsiniz.
-```
 
 ÇALIŞTIRMA
 
