@@ -6,11 +6,18 @@ Bu proje, BERT tabanlı bir model kullanarak metinlerdeki varlıkları tanımlay
 KURULUM
 
 1. Aşağıdaki Python kütüphanelerini yükleyin:
-
+```bash
 !pip install simpletransformers
+```
+```bash
 !pip install nltk
+```
+```bash
 !pip install pandas
+```
+```bash
 !pip install transformers
+```
 
 ÇALIŞMA 
 
