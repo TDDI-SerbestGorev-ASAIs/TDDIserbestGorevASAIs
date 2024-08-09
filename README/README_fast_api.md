@@ -13,8 +13,9 @@ KURULUM
 
 Gerekli paketleri yüklemek için aşağıdaki adımları izleyin:
 
+```bash
 pip install fastapi uvicorn pandas transformers pydantic
-
+```
 KULLANIM
 
 1. main.py dosyasındaki entity_model_path değişkenini kendi model dosya yolunuza göre ayarlayın.
